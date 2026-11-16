@@ -1,0 +1,8 @@
+{
+  "name": "zatca-rules",
+  "private": true,
+  "description": "ZATCA e-invoicing business rules explained in Arabic and English, with tested examples and a local validator",
+  "license": "CC-BY-4.0",
+  "scripts": { "test": "node validate.js invoices/*.xml" },
+  "dependencies": { "@xmldom/xmldom": "^0.9.12", "saxon-js": "^2.7.0" }
+}
