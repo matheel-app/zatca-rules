@@ -1130,7 +1130,7 @@
    "invoice": "invoices/standard-credit_note.xml",
    "xpath": "/cac:AdditionalDocumentReference[13]/cac:Attachment[2]/cbc:EmbeddedDocumentBinaryObject[1]",
    "change": "text",
-   "before": "<cac:Attachment>\n      <cbc:EmbeddedDocumentBinaryObject mimeCode=\"text/plain\">ARXYtNix2YPYqSDYp9iu2KrYqNin2LECDzM5OTk5OTk5OTkwMDAwMwMTMjAyNi0xMS0xNlQxNzozODoxOQQGMTE1LjAwBQUxNS4wMAYsa3VoVkVibk9lNHBza3VocTR2SmF6LzZ2Y0xuNmNVYlRSVHFlOW80NjlTRT0HYE1FWUNJUURFTmhiK1pDd0NFR2hSVlMvSVpic1VsaHdpRmpib0pra09KZVZsVTZ0dS9nSWhBSlk4dnRUM2RBY1dyWUNScStEVG1qVHRNTUdNOFZaR3A0TnYwbjNaMWZMNQhYQklKa0tBYnJBTzlBdUxEWmxvanpSY0dXZUlPOG82eEFieVN4V1J2ck1FV1BhUDlPRzRaMHExT0c2cktPbzhiZTBiU1ZsdVI2aDg2YmFIaEwvL3ZVSlVVPQ==</cbc:EmbeddedDocumentBinaryObject>\n    </cac:Attachment>",
+   "before": "<cac:Attachment>\n      <cbc:EmbeddedDocumentBinaryObject mimeCode=\"text/plain\">ARXYtNix2YPYqSDYp9iu2KrYqNin2LECDzM5OTk5OTk5OTkwMDAwMwMTMjAyNi0xMS0xNlQyMDoyOTozNAQGMTE1LjAwBQUxNS4wMAYsZjNINGc1YWNPNTMzQVZFUHQvVG02T0NBeDJrYlZZUlExM0pwVm5UUk5Saz0HYE1FWUNJUUR3MlluNWlkbHVacElyRk5zK1o4d0Fqa1crWHNTSXJ0RFloN3BZODJUbG53SWhBUHMxbEpTWmpMek4zVk5xTzY5Tks0U3J0WWEyWDY3RzdaUnBoc2lrWk9LSwhYQktBUlNlNVVaT2QraDhSTm9VMEo1c2E0L1ArNEtlV2RJcnZGMnNESkdBSXY4ZkVCb2NmOURwbDEvN1BwbHMyb0JVYXdwbmNzSytXL29qZE9LeDQzVlFVPQ==</cbc:EmbeddedDocumentBinaryObject>\n    </cac:Attachment>",
    "after": "<cac:Attachment>\n      <cbc:EmbeddedDocumentBinaryObject mimeCode=\"text/plain\"/>\n    </cac:Attachment>",
    "sdk_flag": "error",
    "also_fails": [],
@@ -2763,7 +2763,7 @@
    "invoice": "invoices/simplified-debit_note.xml",
    "xpath": "/cac:AdditionalDocumentReference[13]",
    "change": "remove",
-   "before": "<cac:AdditionalDocumentReference>\n    <cbc:ID>QR</cbc:ID>\n    <cac:Attachment>\n      <cbc:EmbeddedDocumentBinaryObject mimeCode=\"text/plain\">ARXYtNix2YPYqSDYp9iu2KrYqNin2LECDzM5OTk5OTk5OTkwMDAwMwMTMjAyNi0xMS0xNlQxNzozODoxOQQGMTE1LjAwBQUxNS4wMAYsaWM5Z1BCZXVydjhrMXhicERDNllXZ282N1daR29YSVB2VWlOcTZRVDJhUT0HYE1FVUNJQTRIQ0FUMUNkbjVNcFpJdVdFWE5PRVhBTXdZNGVrcmFWZEN1QlBDUVBlV0FpRUFnVEpGNVh4N0FsOVd1TkNzYVY0amNQMXNoUTh3eU9PTE9hcW5YdGZQOEVvPQhYQklKa0tBYnJBTzlBdUxEWmxvanpSY0dXZUlPOG82eEFieVN4V1J2ck1FV1BhUDlPRzRaMHExT0c2cktPbzhiZTBiU1ZsdVI2aDg2YmFIaEwvL3ZVSlVVPQ==</cbc:EmbeddedDocumentBinaryObject>\n    </cac:Attachment>\n  </cac:AdditionalDocumentReference>",
+   "before": "<cac:AdditionalDocumentReference>\n    <cbc:ID>QR</cbc:ID>\n    <cac:Attachment>\n      <cbc:EmbeddedDocumentBinaryObject mimeCode=\"text/plain\">ARXYtNix2YPYqSDYp9iu2KrYqNin2LECDzM5OTk5OTk5OTkwMDAwMwMTMjAyNi0xMS0xNlQyMDoyOTozNAQGMTE1LjAwBQUxNS4wMAYsOEtZYnBrWkZsZ29zN1oyc2U1dEg1UEd6OGtaVGwzNW1pUTBZSlJmVm50Yz0HYE1FWUNJUUNaVXJUclV6ZUMrem5Hdm00UGtVaEVQdVloR0tMTDNGTWhRUXBvNHFKSnlRSWhBTTA0Vm5TTUt6cHBNSlZpTW5HYXI0N0IyMHRxekFIN2VKUmsydytEelppUQhYQktBUlNlNVVaT2QraDhSTm9VMEo1c2E0L1ArNEtlV2RJcnZGMnNESkdBSXY4ZkVCb2NmOURwbDEvN1BwbHMyb0JVYXdwbmNzSytXL29qZE9LeDQzVlFVPQ==</cbc:EmbeddedDocumentBinaryObject>\n    </cac:Attachment>\n  </cac:AdditionalDocumentReference>",
    "after": "",
    "sdk_flag": "warning",
    "also_fails": []
@@ -2791,7 +2791,7 @@
    "invoice": "invoices/simplified-debit_note.xml",
    "xpath": "/cac:AdditionalDocumentReference[13]/cac:Attachment[2]/cbc:EmbeddedDocumentBinaryObject[1]",
    "change": "remove",
-   "before": "<cac:Attachment>\n      <cbc:EmbeddedDocumentBinaryObject mimeCode=\"text/plain\">ARXYtNix2YPYqSDYp9iu2KrYqNin2LECDzM5OTk5OTk5OTkwMDAwMwMTMjAyNi0xMS0xNlQxNzozODoxOQQGMTE1LjAwBQUxNS4wMAYsaWM5Z1BCZXVydjhrMXhicERDNllXZ282N1daR29YSVB2VWlOcTZRVDJhUT0HYE1FVUNJQTRIQ0FUMUNkbjVNcFpJdVdFWE5PRVhBTXdZNGVrcmFWZEN1QlBDUVBlV0FpRUFnVEpGNVh4N0FsOVd1TkNzYVY0amNQMXNoUTh3eU9PTE9hcW5YdGZQOEVvPQhYQklKa0tBYnJBTzlBdUxEWmxvanpSY0dXZUlPOG82eEFieVN4V1J2ck1FV1BhUDlPRzRaMHExT0c2cktPbzhiZTBiU1ZsdVI2aDg2YmFIaEwvL3ZVSlVVPQ==</cbc:EmbeddedDocumentBinaryObject>\n    </cac:Attachment>",
+   "before": "<cac:Attachment>\n      <cbc:EmbeddedDocumentBinaryObject mimeCode=\"text/plain\">ARXYtNix2YPYqSDYp9iu2KrYqNin2LECDzM5OTk5OTk5OTkwMDAwMwMTMjAyNi0xMS0xNlQyMDoyOTozNAQGMTE1LjAwBQUxNS4wMAYsOEtZYnBrWkZsZ29zN1oyc2U1dEg1UEd6OGtaVGwzNW1pUTBZSlJmVm50Yz0HYE1FWUNJUUNaVXJUclV6ZUMrem5Hdm00UGtVaEVQdVloR0tMTDNGTWhRUXBvNHFKSnlRSWhBTTA0Vm5TTUt6cHBNSlZpTW5HYXI0N0IyMHRxekFIN2VKUmsydytEelppUQhYQktBUlNlNVVaT2QraDhSTm9VMEo1c2E0L1ArNEtlV2RJcnZGMnNESkdBSXY4ZkVCb2NmOURwbDEvN1BwbHMyb0JVYXdwbmNzSytXL29qZE9LeDQzVlFVPQ==</cbc:EmbeddedDocumentBinaryObject>\n    </cac:Attachment>",
    "after": "<cac:Attachment>\n      \n    </cac:Attachment>",
    "sdk_flag": "error",
    "also_fails": [
@@ -2842,7 +2842,7 @@
    "invoice": "invoices/simplified-debit_note.xml",
    "xpath": "/cac:AdditionalDocumentReference[13]/cac:Attachment[2]/cbc:EmbeddedDocumentBinaryObject[1]",
    "change": "remove",
-   "before": "<cac:Attachment>\n      <cbc:EmbeddedDocumentBinaryObject mimeCode=\"text/plain\">ARXYtNix2YPYqSDYp9iu2KrYqNin2LECDzM5OTk5OTk5OTkwMDAwMwMTMjAyNi0xMS0xNlQxNzozODoxOQQGMTE1LjAwBQUxNS4wMAYsaWM5Z1BCZXVydjhrMXhicERDNllXZ282N1daR29YSVB2VWlOcTZRVDJhUT0HYE1FVUNJQTRIQ0FUMUNkbjVNcFpJdVdFWE5PRVhBTXdZNGVrcmFWZEN1QlBDUVBlV0FpRUFnVEpGNVh4N0FsOVd1TkNzYVY0amNQMXNoUTh3eU9PTE9hcW5YdGZQOEVvPQhYQklKa0tBYnJBTzlBdUxEWmxvanpSY0dXZUlPOG82eEFieVN4V1J2ck1FV1BhUDlPRzRaMHExT0c2cktPbzhiZTBiU1ZsdVI2aDg2YmFIaEwvL3ZVSlVVPQ==</cbc:EmbeddedDocumentBinaryObject>\n    </cac:Attachment>",
+   "before": "<cac:Attachment>\n      <cbc:EmbeddedDocumentBinaryObject mimeCode=\"text/plain\">ARXYtNix2YPYqSDYp9iu2KrYqNin2LECDzM5OTk5OTk5OTkwMDAwMwMTMjAyNi0xMS0xNlQyMDoyOTozNAQGMTE1LjAwBQUxNS4wMAYsOEtZYnBrWkZsZ29zN1oyc2U1dEg1UEd6OGtaVGwzNW1pUTBZSlJmVm50Yz0HYE1FWUNJUUNaVXJUclV6ZUMrem5Hdm00UGtVaEVQdVloR0tMTDNGTWhRUXBvNHFKSnlRSWhBTTA0Vm5TTUt6cHBNSlZpTW5HYXI0N0IyMHRxekFIN2VKUmsydytEelppUQhYQktBUlNlNVVaT2QraDhSTm9VMEo1c2E0L1ArNEtlV2RJcnZGMnNESkdBSXY4ZkVCb2NmOURwbDEvN1BwbHMyb0JVYXdwbmNzSytXL29qZE9LeDQzVlFVPQ==</cbc:EmbeddedDocumentBinaryObject>\n    </cac:Attachment>",
    "after": "<cac:Attachment>\n      \n    </cac:Attachment>",
    "sdk_flag": "error",
    "also_fails": [
@@ -4414,8 +4414,8 @@
    "invoice": "invoices/standard-credit_note.xml",
    "xpath": "/cac:AdditionalDocumentReference[13]/cac:Attachment[2]/cbc:EmbeddedDocumentBinaryObject[1]",
    "change": "attr-remove",
-   "before": "<cac:Attachment>\n      <cbc:EmbeddedDocumentBinaryObject mimeCode=\"text/plain\">ARXYtNix2YPYqSDYp9iu2KrYqNin2LECDzM5OTk5OTk5OTkwMDAwMwMTMjAyNi0xMS0xNlQxNzozODoxOQQGMTE1LjAwBQUxNS4wMAYsa3VoVkVibk9lNHBza3VocTR2SmF6LzZ2Y0xuNmNVYlRSVHFlOW80NjlTRT0HYE1FWUNJUURFTmhiK1pDd0NFR2hSVlMvSVpic1VsaHdpRmpib0pra09KZVZsVTZ0dS9nSWhBSlk4dnRUM2RBY1dyWUNScStEVG1qVHRNTUdNOFZaR3A0TnYwbjNaMWZMNQhYQklKa0tBYnJBTzlBdUxEWmxvanpSY0dXZUlPOG82eEFieVN4V1J2ck1FV1BhUDlPRzRaMHExT0c2cktPbzhiZTBiU1ZsdVI2aDg2YmFIaEwvL3ZVSlVVPQ==</cbc:EmbeddedDocumentBinaryObject>\n    </cac:Attachment>",
-   "after": "<cac:Attachment>\n      <cbc:EmbeddedDocumentBinaryObject>ARXYtNix2YPYqSDYp9iu2KrYqNin2LECDzM5OTk5OTk5OTkwMDAwMwMTMjAyNi0xMS0xNlQxNzozODoxOQQGMTE1LjAwBQUxNS4wMAYsa3VoVkVibk9lNHBza3VocTR2SmF6LzZ2Y0xuNmNVYlRSVHFlOW80NjlTRT0HYE1FWUNJUURFTmhiK1pDd0NFR2hSVlMvSVpic1VsaHdpRmpib0pra09KZVZsVTZ0dS9nSWhBSlk4dnRUM2RBY1dyWUNScStEVG1qVHRNTUdNOFZaR3A0TnYwbjNaMWZMNQhYQklKa0tBYnJBTzlBdUxEWmxvanpSY0dXZUlPOG82eEFieVN4V1J2ck1FV1BhUDlPRzRaMHExT0c2cktPbzhiZTBiU1ZsdVI2aDg2YmFIaEwvL3ZVSlVVPQ==</cbc:EmbeddedDocumentBinaryObject>\n    </cac:Attachment>",
+   "before": "<cac:Attachment>\n      <cbc:EmbeddedDocumentBinaryObject mimeCode=\"text/plain\">ARXYtNix2YPYqSDYp9iu2KrYqNin2LECDzM5OTk5OTk5OTkwMDAwMwMTMjAyNi0xMS0xNlQyMDoyOTozNAQGMTE1LjAwBQUxNS4wMAYsZjNINGc1YWNPNTMzQVZFUHQvVG02T0NBeDJrYlZZUlExM0pwVm5UUk5Saz0HYE1FWUNJUUR3MlluNWlkbHVacElyRk5zK1o4d0Fqa1crWHNTSXJ0RFloN3BZODJUbG53SWhBUHMxbEpTWmpMek4zVk5xTzY5Tks0U3J0WWEyWDY3RzdaUnBoc2lrWk9LSwhYQktBUlNlNVVaT2QraDhSTm9VMEo1c2E0L1ArNEtlV2RJcnZGMnNESkdBSXY4ZkVCb2NmOURwbDEvN1BwbHMyb0JVYXdwbmNzSytXL29qZE9LeDQzVlFVPQ==</cbc:EmbeddedDocumentBinaryObject>\n    </cac:Attachment>",
+   "after": "<cac:Attachment>\n      <cbc:EmbeddedDocumentBinaryObject>ARXYtNix2YPYqSDYp9iu2KrYqNin2LECDzM5OTk5OTk5OTkwMDAwMwMTMjAyNi0xMS0xNlQyMDoyOTozNAQGMTE1LjAwBQUxNS4wMAYsZjNINGc1YWNPNTMzQVZFUHQvVG02T0NBeDJrYlZZUlExM0pwVm5UUk5Saz0HYE1FWUNJUUR3MlluNWlkbHVacElyRk5zK1o4d0Fqa1crWHNTSXJ0RFloN3BZODJUbG53SWhBUHMxbEpTWmpMek4zVk5xTzY5Tks0U3J0WWEyWDY3RzdaUnBoc2lrWk9LSwhYQktBUlNlNVVaT2QraDhSTm9VMEo1c2E0L1ArNEtlV2RJcnZGMnNESkdBSXY4ZkVCb2NmOURwbDEvN1BwbHMyb0JVYXdwbmNzSytXL29qZE9LeDQzVlFVPQ==</cbc:EmbeddedDocumentBinaryObject>\n    </cac:Attachment>",
    "sdk_flag": "error",
    "also_fails": [],
    "attr": "mimeCode"
